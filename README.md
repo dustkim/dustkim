@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=dustkim's%20Github&fontSize=90&fontColor=9999FF&animation=blinking" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=B2FCE4&height=300&section=header&text=dustkim's%20Github&fontSize=90&fontColor=9999FF&animation=blinking" />
 <hr>
 <section text-align=center>
   <h2>Skill</h2>
