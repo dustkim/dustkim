@@ -6,6 +6,7 @@
 </section>
 <hr>
 <img src="https://img.shields.io/bedge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
 <!--
