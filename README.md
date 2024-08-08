@@ -1,7 +1,9 @@
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=#9999FF&height=300&section=header&text=dustkim's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#9999FF&height=300&section=header&text=dustkim's%20Github&fontSize=90" />
 <hr>
-<h2>Skill</h2>
+<section text-align=center>
+  <h2>Skill</h2>
+</section>
 
 <!--
 **dustkim/dustkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
