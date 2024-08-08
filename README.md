@@ -1,10 +1,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=B2FCE4&height=300&section=header&text=dustkim's%20Github&fontSize=90&fontColor=9999FF&animation=blinking" />
-<hr>
+<br>
 <section align="center">
   <h2>Skill</h2>
 </section>
-
+<hr>
+<img alt="Python" src="https://img.shields.io/bedge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=3776AB"/>
 <!--
 **dustkim/dustkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
