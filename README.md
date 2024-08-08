@@ -1,5 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=#9999FF&height=300&section=header&text=dustkim's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=wonjin's%20Github&fontSize=90" />
 <hr>
 <section text-align=center>
   <h2>Skill</h2>
