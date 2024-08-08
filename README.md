@@ -1,6 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=dustkim's%20Github&fontSize=90&fontColor=gradient&animation=twinkling" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=wonjin's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=dustkim's%20Github&fontSize=90&fontColor=#9999FF&animation=blinking" />
 <hr>
 <section text-align=center>
   <h2>Skill</h2>
