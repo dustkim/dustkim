@@ -7,7 +7,7 @@
 <hr>
 <img alt="Python" src="https://img.shields.io/bedge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 
