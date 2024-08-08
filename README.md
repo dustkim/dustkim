@@ -1,6 +1,10 @@
 
 ## wonjin kim
 <br>
+<hr>
+<head>
+  <h2>Skill</h2>
+</head>
 
 <!--
 **dustkim/dustkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
