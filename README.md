@@ -5,7 +5,9 @@
   <h2>Skill</h2>
 </section>
 <hr>
-<img alt="Python" src="https://img.shields.io/bedge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=3776AB"/>
+<img alt="Python" src="https://img.shields.io/bedge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
+
 <!--
 **dustkim/dustkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
