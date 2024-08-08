@@ -5,7 +5,7 @@
   <h2>Skill</h2>
 </section>
 <hr>
-<img alt="Python" src="https://img.shields.io/bedge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/bedge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 
 
 <!--
