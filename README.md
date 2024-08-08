@@ -1,10 +1,7 @@
 
-## wonjin kim
-<br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <hr>
-<head>
-  <h2>Skill</h2>
-</head>
+<h2>Skill</h2>
 
 <!--
 **dustkim/dustkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
