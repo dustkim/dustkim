@@ -19,7 +19,7 @@
 
 | Database | Tool |
 | ----------- | ----------- |
-| <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/MondoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" /> | <img src="https://img.shields.io/badge/VScode-0854C1.svg?style=flat&logo=VScode&logoColor=white" /> <img src="https://img.shields.io/badge/Google Colab-F9AB00.svg?style=flat&logo=google colab&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Github-181717.svg?style=flat&logo=Github&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" /> <img src="https://img.shields.io/badge/MondoDB-47A248.svg?style=flat&logo=MongoDB&logoColor=white" /> | <img src="https://img.shields.io/badge/VScode-0854C1.svg?style=flat&logo=VScode&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=flat&logo=googlecolab&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&logo=Jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" /> <img src="https://img.shields.io/badge/Github-181717.svg?style=flat&logo=Github&logoColor=white" /> |
 
 <hr>
 <br>
